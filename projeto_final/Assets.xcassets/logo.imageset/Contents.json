@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "FRANCISCO_MARIO_BERNARDO_DA_SILVA_FILHO_crie_uma_logo_redondo_de_uma_planta_pequena_nascendo_do_solo_no_e_af6821f9-ccfe-4199-891e-415316291a95.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

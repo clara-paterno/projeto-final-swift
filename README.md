@@ -1,12 +1,14 @@
-# 🌱 Smart Plant Monitoring System
+# 🌱 Planta Planta Planta
 
-An IoT-based mobile application that enables users to monitor environmental conditions of their plants in real time through an intuitive iOS interface.
+An IoT-powered mobile application that helps users monitor their plants remotely through real-time environmental data.
+
+Developed during the **HackaTruck MakerSpace** program.
 
 ## 📖 Overview
 
-This project was developed to simplify plant care by integrating IoT devices with a mobile application. Environmental data collected by sensors is transmitted to an ESP32, processed through Node-RED, and made available to an iOS application via a REST API.
+This project was developed to simplify plant care by integrating IoT devices with a mobile application. Environmental data collected by sensors is transmitted to an ESP32, processed by Node-RED, and delivered to an iOS application through a REST API.
 
-The application allows users to register plants, associate them with monitoring devices, and track their environmental conditions, helping them make informed decisions about plant care.
+The application allows users to register plants, associate them with IoT devices, and monitor environmental conditions such as temperature, light intensity, and soil humidity in real time.
 
 ---
 
@@ -16,29 +18,29 @@ The application allows users to register plants, associate them with monitoring 
 - Associate plants with IoT devices
 - Real-time monitoring
 - Temperature visualization
-- Air humidity visualization
+- Soil humidity visualization
 - Light intensity visualization
 - Clean and intuitive interface
 - Automatic data retrieval from the server
 
 ---
 
-## 🛠 Technologies
+## 🛠️ Tech Stack
 
 ### Mobile
 - Swift
 - SwiftUI
+
+### IoT
+- ESP32
+- Environmental sensors
 
 ### Backend
 - Node-RED
 - REST API
 - JSON
 
-### Hardware
-- ESP32
-- Environmental sensors
-
-### Tools
+### Development Tools
 - Xcode
 - Git
 - GitHub
@@ -47,19 +49,25 @@ The application allows users to register plants, associate them with monitoring 
 
 ## 🏗 System Architecture
 
-```text
-Environmental Sensors
-        │
-        ▼
-      ESP32
-        │
-        ▼
-    Node-RED
-        │
- REST API (JSON)
-        │
-        ▼
-   iOS Application
+```mermaid
+flowchart LR
+    subgraph IoT Device
+        A["🌡️ Temperature Sensor"]
+        B["💧 Soil Humidity Sensor"]
+        C["☀️ Light Sensor"]
+    end
+
+    A --> D["ESP32"]
+    B --> D
+    C --> D
+
+    D --> E["Node-RED"]
+
+    E --> F["REST API"]
+
+    F --> G["📱 Planta Planta Planta<br/>SwiftUI App"]
+
+    G --> H["👤 User"]
 ```
 
 ---
@@ -68,21 +76,12 @@ Environmental Sensors
 
 *(Add screenshots here)*
 
-Example:
 
-- Home Screen
-- Plant Details
-- Add Plant
-- Sensor Data
 
 ---
+## 💡 Challenges
 
-## 🎯 Objectives
-
-- Develop an IoT solution for smart plant monitoring.
-- Integrate embedded hardware with a mobile application.
-- Practice API consumption in SwiftUI.
-- Improve user experience through a simple and intuitive interface.
+One of the main challenges during the development was integrating hardware and software components into a single ecosystem. The project required communication between embedded devices, Node-RED flows, REST APIs, and the SwiftUI application, demanding constant testing and integration across different technologies.
 
 ---
 
@@ -113,6 +112,6 @@ Throughout this project I gained practical experience with:
 
 ---
 
-## 👥 Team
-
-Developed as an academic project by a multidisciplinary team combining mobile development, IoT, and backend technologies.
+## 🔗 Contato 
+- 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
+- 🐙 e-mail: mclara.paterno@gmail.com

@@ -27,16 +27,16 @@ The application allows users to register plants, associate them with IoT devices
 
 ## 📱 Application Screens
 
+## 📱 Application Screens
+
 <p align="center">
-  <img src="images/homeScreen.png" width="190" alt="Home Screen"/>
-  <img src="images/AddPlant.png" width="190" alt="Add Plant Screen"/>
-  <img src="images/YourPlants.jpg" width="190" alt="Plants List"/>
+  <img src="images/Screens.png" alt="Application Screens" width="900"/>
 </p>
 
 <p align="center">
-  <b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Add Plant</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Plants List</b>
+<b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Add Plant</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Plants List</b>
 </p>
 
 ---

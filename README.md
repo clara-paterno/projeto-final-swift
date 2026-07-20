@@ -112,6 +112,6 @@ Throughout this project I gained practical experience with:
 
 ---
 
-## 🔗 Contato 
+## 🔗 Contact information 
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
 - 🐙 e-mail: mclara.paterno@gmail.com

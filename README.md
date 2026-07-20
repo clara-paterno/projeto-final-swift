@@ -25,6 +25,21 @@ The application allows users to register plants, associate them with IoT devices
 
 ---
 
+## 📱 Application Screens
+
+<p align="center">
+  <img src="images/homeScreen.png" width="220"/>
+  <img src="images/AddPlant.png" width="220"/>
+  
+</p>
+
+<p align="center">
+  <img src="images/YourPlants.png" width="220"/>
+  <img src="images/Config.png" width="220"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Mobile
@@ -69,14 +84,6 @@ flowchart LR
 
     G --> H["👤 User"]
 ```
-
----
-
-## 📱 Application Screens
-
-*(Add screenshots here)*
-
-
 
 ---
 ## 💡 Challenges

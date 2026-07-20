@@ -34,7 +34,7 @@ The application allows users to register plants, associate them with IoT devices
 </p>
 
 <p align="center">
-  <img src="images/YourPlants.png" width="220"/>
+  <img src="images/YourPlants.jpg" width="220"/>
   <img src="images/Config.png" width="220"/>
 </p>
 

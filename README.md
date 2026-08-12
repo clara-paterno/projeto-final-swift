@@ -2,7 +2,7 @@
 
 An IoT-powered mobile application that helps users monitor their plants remotely through real-time environmental data.
 
-Developed during the **HackaTruck MakerSpace** program.
+Developed **collaboratively** as a team during the **HackaTruck MakerSpace** program.
 
 ## 📖 Overview
 
@@ -83,6 +83,8 @@ flowchart LR
 
 One of the main challenges during the development was integrating hardware and software components into a single ecosystem. The project required communication between embedded devices, Node-RED flows, REST APIs, and the SwiftUI application, demanding constant testing and integration across different technologies.
 
+As a team project, another important aspect was coordinating different parts of the development process and ensuring that the hardware, backend, and mobile application worked together as a cohesive system.
+
 ---
 
 ## 📚 What I Learned
@@ -95,7 +97,7 @@ Throughout this project I gained practical experience with:
 - Node-RED flows
 - IoT architecture
 - Hardware and software integration
-- Team collaboration
+- Collaborative software development
 - Git version control
 
 ---
@@ -114,4 +116,4 @@ Throughout this project I gained practical experience with:
 
 ## 🔗 Contact information 
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-clara-paterno-maia-9450b73aa
-- 🐙 e-mail: mclara.paterno@gmail.com
+- 📧 e-mail: mclara.paterno@gmail.com

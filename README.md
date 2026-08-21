@@ -89,21 +89,24 @@ One of the main challenges during the development was integrating hardware and s
 
 This project was developed collaboratively as part of the HackaTruck MakerSpace program. Each team member contributed to different parts of the application and system.
 
-### Maria Clara Paterno Maia
+### Maria Clara Paterno Maia - Front-end & Backend
 - Developed the "My Plants" screen using SwiftUI
 - Designed and implemented the application's custom tab bar
-- Contributed to the development and integration of the mobile application
+- Contributed to the backend and IoT integration
+- Worked on the communication between the ESP32 and the REST API
+- Assisted with testing and troubleshooting sensor data transmission from the ESP32 to the API
+- Contributed to the integration between the mobile application, backend, and IoT components
 
-### Sergio
-### Enzo
-### Gabriel
-### Mário
+### Enzo Sá - Front-end
+### Gabriel Oliveira - Backend
+### Mário Bernardo - Front-end
+### Sérgio de Paiva - Front-end
 
 ---
 
-## 📚 What I Learned
+## 📚 What we Learned
 
-Throughout this project I gained practical experience with:
+Throughout this project we gained practical experience with:
 
 - SwiftUI development
 - REST API integration

@@ -83,7 +83,21 @@ flowchart LR
 
 One of the main challenges during the development was integrating hardware and software components into a single ecosystem. The project required communication between embedded devices, Node-RED flows, REST APIs, and the SwiftUI application, demanding constant testing and integration across different technologies.
 
-As a team project, another important aspect was coordinating different parts of the development process and ensuring that the hardware, backend, and mobile application worked together as a cohesive system.
+---
+
+## 👥 Team Contributions
+
+This project was developed collaboratively as part of the HackaTruck MakerSpace program. Each team member contributed to different parts of the application and system.
+
+### Maria Clara Paterno Maia
+- Developed the "My Plants" screen using SwiftUI
+- Designed and implemented the application's custom tab bar
+- Contributed to the development and integration of the mobile application
+
+### Sergio
+### Enzo
+### Gabriel
+### Mário
 
 ---
 

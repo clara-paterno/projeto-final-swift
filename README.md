@@ -28,7 +28,7 @@ The application allows users to register plants, associate them with IoT devices
 ## 📱 Application Screens
 
 <p align="center">
-  <img src="images/Screens.png" alt="Application Screens" width="900"/>
+  <img src="images/Screens2.png" alt="Application Screens" width="1000"/>
 </p>
 
 ---

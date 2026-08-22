@@ -101,6 +101,10 @@ This project was developed collaboratively as part of the HackaTruck MakerSpace 
 ### Gabriel Oliveira - Backend
 ### Mário Bernardo - Front-end
 ### Sérgio de Paiva - Front-end
+- Developed the app's Settings screen
+- Implemented the Credits (Developers) screen
+- Created the "How to Use the App" screen
+- Implemented the theme toggle functionality (light/dark mode)
 
 ---
 
